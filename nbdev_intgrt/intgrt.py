@@ -8,6 +8,7 @@ def intgrt(func, # function or method representing the curve being integrated
            lbnd:float, # lower bound of integration
            ubnd:float, # upper bound of integration
            intvl:float): # value to be used for 'dx'
+    """This function performs a numeric integration using a simple summation approach"""
     sumx =0
     lside=lbnd
     rside=lbnd+intvl
