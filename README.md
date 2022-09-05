@@ -14,7 +14,8 @@ pip install nbdev_intgrt
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+Here’s an example of using
+[`intgrt`](https://rbagdazian.github.io/nbdev-intgrt/core.html#intgrt)
 
 ``` python
 import math
