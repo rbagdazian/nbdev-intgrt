@@ -4,7 +4,10 @@
 __all__ = ['intgrt']
 
 # %% ../00_intgrt.ipynb 3
-def intgrt(func, lbnd, ubnd, intvl):
+def intgrt(func, # function or method representing the curve being integrated
+           lbnd:float, # lower bound of integration
+           ubnd:float, # upper bound of integration
+           intvl:float): # value to be used for 'dx'
     sumx =0
     lside=lbnd
     rside=lbnd+intvl
