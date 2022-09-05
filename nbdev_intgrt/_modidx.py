@@ -6,4 +6,4 @@ d = { 'settings': { 'branch': 'master',
                 'git_url': 'https://github.com/rbagdazian/nbdev-intgrt',
                 'lib_path': 'nbdev_intgrt'},
   'syms': { 'nbdev_intgrt.core': {'nbdev_intgrt.core.foo': ('core.html#foo', 'nbdev_intgrt/core.py')},
-            'nbdev_intgrt.intgrt': {'nbdev_intgrt.intgrt.intgrt': ('core.html#intgrt', 'nbdev_intgrt/intgrt.py')}}}
+            'nbdev_intgrt.intgrt': {'nbdev_intgrt.intgrt.intgrt': ('intgrt.html#intgrt', 'nbdev_intgrt/intgrt.py')}}}
