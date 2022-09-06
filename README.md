@@ -6,7 +6,7 @@ nbdev-intgrt
 ## Install
 
 ``` sh
-pip install nbdev_intgrt
+pip install nbdev-intgrt
 ```
 
 ## How to use
