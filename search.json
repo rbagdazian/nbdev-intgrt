@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-intgrt",
+    "section": "",
+    "text": "pip install nbdev-intgrt"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-intgrt",
+    "section": "How to use",
+    "text": "How to use\nHere’s an example of using intgrt\n\nimport math\n\nlbound = 0\nrbound = 1\nintvl = 0.0001\nfunc = math.sqrt\nresult = intgrt(func,lbound,rbound,intvl)\nprint(result)\n\n0.6666664591970162"
+  },
+  {
+    "objectID": "intgrt.html",
+    "href": "intgrt.html",
+    "title": "intgrt",
+    "section": "",
+    "text": "source\n\nintgrt\n\n intgrt (func, lbnd:float, ubnd:float, intvl:float)\n\nThis function performs a numeric integration using a simple summation approach\n\n\n\n\nType\nDetails\n\n\n\n\nfunc\n\nfunction or method representing the curve being integrated\n\n\nlbnd\nfloat\nlower bound of integration\n\n\nubnd\nfloat\nupper bound of integration\n\n\nintvl\nfloat\nvalue to be used for ‘dx’"
+  }
+]
